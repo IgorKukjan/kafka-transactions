@@ -1,0 +1,20 @@
+[submodule "core"]
+	path = core
+	url = https://github.com/IgorKukjan/core.git
+	branch = master
+[submodule "DepositService"]
+	path = DepositService
+	url = https://github.com/IgorKukjan/DepositService.git
+	branch = master
+[submodule "mockservice"]
+	path = mockservice
+	url = https://github.com/IgorKukjan/mockservice.git
+	branch = master
+[submodule "TransferService"]
+	path = TransferService
+	url = https://github.com/IgorKukjan/TransferService.git
+	branch = master
+[submodule "WithdrawalService"]
+	path = WithdrawalService
+	url = https://github.com/IgorKukjan/WithdrawalService.git
+	branch = master
